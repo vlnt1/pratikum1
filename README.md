@@ -1,5 +1,6 @@
 # pratikum1
-## cara membuat program nginputkan biodata diri
+## MICHAEL VALENTINO LAISINA 312110045 TI.21.C1
+### cara membuat program nginputkan biodata diri
 Python sudah menyediakan fungsi input() dan raw_input() untuk mengambil inputan dari keyboard.
 
 Cara pakainya:
